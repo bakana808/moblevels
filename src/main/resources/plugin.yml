@@ -1,0 +1,4 @@
+name: MobLevels
+main: com.hyperfresh.moblevels.MobLevels
+version: 0.1
+permissions:
